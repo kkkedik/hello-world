@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Task6 {
 
-    private double num1;
 
     public static void main(String[] args) {
         double num1 = Math.abs(getNum());
